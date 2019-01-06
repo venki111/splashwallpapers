@@ -27,11 +27,30 @@
 		}
 	],
 	"Wallpapers": [
-			{
+		
+		{
 			"name": "",
-			"author": "Nithis",
+			"author": "",
 			"url": "",
 			"thumbnail": "",
 			"collections": "",
 			"downloadable": true
 		},
+		{
+			"name": "",
+			"author": "",
+			"url": "",
+			"thumbnail": "",
+			"collections": "",
+			"downloadable": true
+		},
+			{
+			"name": "Lion",
+			"author": "Venkates",
+			"url": "https://i.imgur.com/6LTK1Ov.jpg",
+			"thumbnail": "https://i.imgur.com/6LTK1Ov.jpg",
+			"collections": "animals",
+			"downloadable": true
+		},
+		]
+}
