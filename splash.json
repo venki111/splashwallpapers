@@ -45,11 +45,19 @@
 			"downloadable": true
 		},
 			{
-			"name": "Lion",
+			"name": "02",
 			"author": "Venkates",
 			"url": "https://i.imgur.com/6LTK1Ov.jpg",
 			"thumbnail": "https://i.imgur.com/6LTK1Ov.jpg",
 			"collections": "animals",
+			"downloadable": true
+		},
+		{
+			"name": "03",
+			"author": "venkates",
+			"url": "https://i.imgur.com/g1J8gcy.jpg",
+			"thumbnail": "https://i.imgur.com/g1J8gcy.jpg",
+			"collections": "montain",
 			"downloadable": true
 		},
 		]
