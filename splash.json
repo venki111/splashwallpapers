@@ -29,11 +29,11 @@
 	"Wallpapers": [
 		
 		{
-			"name": "",
-			"author": "",
-			"url": "",
-			"thumbnail": "",
-			"collections": "",
+			"name": "01",
+			"author": "venkates",
+			"url": "https://i.imgur.com/ENU9uuK.jpg",
+			"thumbnail": "https://i.imgur.com/ENU9uuK.jpg",
+			"collections": "movie",
 			"downloadable": true
 		},
 		{
